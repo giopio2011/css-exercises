@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+background:pink;
+
+}
+#numt {
+    color: blue;
+    font-size:36px;
+}
+#numth {
+    font-size:24px;
+}
+#numf {
+    background:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
